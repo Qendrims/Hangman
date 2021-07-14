@@ -1,4 +1,14 @@
 word
 hand
 sanitizer
-Bacterial
+bacterial
+animals
+football
+basketball
+tennis
+hourse
+pug
+pitbull
+beer
+water
+beach
